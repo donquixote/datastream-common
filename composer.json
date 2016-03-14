@@ -1,0 +1,16 @@
+{
+  "name": "donquixote/datastream",
+  "type": "library",
+  "description": "Library for data streams. Does not do anything by itself.",
+  "homepage": "http://github.com/donquixote/datastream",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andreas Hennings",
+      "email": "andreas@dqxtech.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "Donquixote\\DataStream\\": "src/" }
+  }
+}
