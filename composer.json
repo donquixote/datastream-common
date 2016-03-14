@@ -1,8 +1,8 @@
 {
-  "name": "donquixote/datastream",
+  "name": "donquixote/datastream-common",
   "type": "library",
   "description": "Library for data streams. Does not do anything by itself.",
-  "homepage": "http://github.com/donquixote/datastream",
+  "homepage": "http://github.com/donquixote/datastream-common",
   "license": "MIT",
   "authors": [
     {
